@@ -1,123 +1,28 @@
+# Summary
 ---
-layout: default
+* IIT Madras & IIM Lucknow MBA graduate with 13+ Years of proven experience in Product Management & Strategic Product Marketing, highly motivated professional with a passion for understanding customer needs, solving problems & developing products. Seeking Roles In Product Management, Product Marketing, Data Science Manager Roles
+* 5+ Yrs. of Software Product Management experience leading SW innovation projects globally; Responsible for Defining & Evangelizing product vision, strategy and roadmaps based on VOCs, market research, opportunity sizing and business cases
+* Rich experience in utilizing Product & Customer Data - Data Science & Analytics (AI/ML) to extract valuable insights for guiding Product decisions and Marketing strategies.
+* Strong Technology Background – Exposure to Data Science, Managing Complex datasets in Python, Modeling using AI/ML Techniques, UI/UX Design, Cloud-based Services
+
+# Data Science & Business Intelligence/Analytics Portfolio
 ---
+## Project 1: Bike-Sharing Rental Demand Modeling for US based bike sharing provider
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Objective: Build a model for prediction of daily count of bike rentals based on environmental and seasonal data; to understand the key variables that drive demand
+* Techniques : **Multiple Linear Regression, Python**
+* Type: Regression Analysis
+* Outcome: Multiple Linear Regression Model with an R-squared score of 0.8
 
-[Link to another page](./another-page.html).
+## Project 2: Understanding Customers' Lending Patterns for an Consumer Finance Company
 
-There should be whitespace between paragraphs.
+Objective: Analyze underlying patterns, characteristics of the customers of a consumer finance company to understand the key indicators of loan default and customer profiling
+* Techniques: **Exploratory Data Analysis, Python**
+* Type: Credit Risk Analytics
+* Outcome: Performed EDA Analysis to segment the customers based on their demographics, lending pattern & identified key variables driving default
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## Project 3: Historical Movie Data Analysis
 
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+Objective: Assist the Film production company in making data-driven decisions based on 3-year historical data of movie releases; and launch a movie for global audience
+* Techniques: **SQL, Joins, Sub Queries, SQL-case-statements-conditions, Common Table Expressions (CTE), Aggregate Functions, MySQL Workbench**
+* Outcome: Formulated SQL queries based on movie, audience, crew and production company characteristics 
