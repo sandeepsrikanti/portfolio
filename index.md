@@ -14,6 +14,8 @@ Objective: Build a model for prediction of daily count of bike rentals based on 
 * Type: Regression Analysis
 * Outcome: Multiple Linear Regression Model with an R-squared score of 0.8
 
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sandeepsrikanti/portfolio/tree/master/Projects/Bike%20Sharing%20Assignment%20-Linear%20Regression)
+
 ## Project 2: Understanding Customers' Lending Patterns for an Consumer Finance Company
 
 Objective: Analyze underlying patterns, characteristics of the customers of a consumer finance company to understand the key indicators of loan default and customer profiling
