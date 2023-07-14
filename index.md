@@ -23,8 +23,7 @@ Objective: Analyze underlying patterns, characteristics of the customers of a co
 * Type: Credit Risk Analytics
 * Outcome: Performed EDA Analysis to segment the customers based on their demographics, lending pattern & identified key variables driving default
   
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)]
-(https://github.com/sandeepsrikanti/portfolio/tree/master/Projects/EDA%20Credit%20Risk%20Analysis%20-%20Python)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sandeepsrikanti/portfolio/tree/master/Projects/EDA%20Credit%20Risk%20Analysis%20-%20Python)
 
 ## Project 3: Historical Movie Data Analysis
 
