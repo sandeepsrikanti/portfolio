@@ -3,6 +3,7 @@
 * IIT Madras & IIM Lucknow MBA graduate with 13+ Years of proven experience in Product Management & Strategic Product Marketing, highly motivated professional with a passion for understanding customer needs, solving problems & developing products. Seeking Roles In Product Management, Product Marketing, Data Science Manager Roles
 * 5+ Yrs. of Software Product Management experience leading SW innovation projects globally; Responsible for Defining & Evangelizing product vision, strategy and roadmaps based on VOCs, market research, opportunity sizing and business cases
 * Rich experience in utilizing Product & Customer Data - Data Science & Analytics (AI/ML) to extract valuable insights for guiding Product decisions and Marketing strategies.
+* Highly motivated Data Science professional with a passion for understanding customer needs, solving problems by extracting insights from data & developing products.
 * Strong Technology Background – Exposure to Data Science, Managing Complex datasets in Python, Modeling using AI/ML Techniques, UI/UX Design, Cloud-based Services
 
 # Data Science & Business Intelligence/Analytics Portfolio
